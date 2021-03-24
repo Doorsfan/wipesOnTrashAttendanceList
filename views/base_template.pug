@@ -1,0 +1,15 @@
+doctype html
+html
+  head
+    title #{title}
+    link(rel='stylesheet', href='/css/style.css')
+    meta(name="viewport" content="width=device-width, initial-scale=1")
+  body
+    main
+      block header
+        header.header
+          h1.title #{title}
+          a.previous_raid(href='/previous_raid') Previous Raid 
+          a.next_raid(href='/next_raid') Next Raid 
+      block content
+      block footer

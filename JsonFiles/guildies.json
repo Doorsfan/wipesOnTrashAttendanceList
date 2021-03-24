@@ -1,0 +1,328 @@
+﻿{
+  "allGuildies": [
+    {
+      "username": "myth",
+      "role": "Healer",
+      "id": "myth",
+      "note": "Bring for AQ40"
+    },
+    {
+      "username": "Chigzaj",
+      "role": "Healer",
+      "id": "Chigzaj",
+      "note": "Bring for AQ40"
+    },
+    {
+      "username": "serriøs",
+      "role": "Tank",
+      "id": "serriøs",
+      "note": ""
+    },
+    {
+      "username": "Santikaruu",
+      "role": "DPS",
+      "id": "Santikaruu",
+      "note": "Bring for AQ40"
+    },
+    {
+      "username": "ahealter",
+      "role": "Healer",
+      "id": "ahealter",
+      "note": ""
+    },
+    {
+      "username": "Mikah",
+      "role": "DPS",
+      "id": "Mikah",
+      "note": ""
+    },
+    {
+      "username": "Kooda",
+      "role": "DPS",
+      "id": "Kooda",
+      "note": ""
+    },
+    {
+      "username": "Kugi",
+      "role": "DPS",
+      "id": "Kugi",
+      "note": ""
+    },
+    {
+      "username": "Latsaspappan",
+      "role": "DPS",
+      "id": "Låtsaspappan",
+      "note": ""
+    },
+    {
+      "username": "Rokondola",
+      "role": "DPS",
+      "id": "Rokondola",
+      "note": ""
+    },
+    {
+      "username": "Strokemyback",
+      "role": "Healer",
+      "id": "Strokemyback",
+      "note": ""
+    },
+    {
+      "username": "Thebawss",
+      "role": "Tank",
+      "id": "Thebawss",
+      "note": ""
+    },
+    {
+      "username": "Trinali",
+      "role": "DPS",
+      "id": "Trinali",
+      "note": ""
+    },
+    {
+      "username": "Umek",
+      "role": "Tank",
+      "id": "Umek",
+      "note": ""
+    },
+    {
+      "username": "Bantha",
+      "role": "Healer",
+      "id": "Bantha",
+      "note": ""
+    },
+    {
+      "username": "Bcube",
+      "role": "DPS",
+      "id": "Bcube",
+      "note": ""
+    },
+    {
+      "username": "Bryyd",
+      "role": "DPS",
+      "id": "Bryyd",
+      "note": ""
+    },
+    {
+      "username": "JailBaitOrc",
+      "role": "DPS",
+      "id": "JailBaitOrc",
+      "note": ""
+    },
+    {
+      "username": "Blooshen",
+      "role": "Healer",
+      "id": "Blooshen",
+      "note": ""
+    },
+    {
+      "username": "Parms",
+      "role": "Tank",
+      "id": "Parms",
+      "note": ""
+    },
+    {
+      "username": "Crystalion",
+      "role": "DPS",
+      "id": "Crystalion",
+      "note": ""
+    },
+    {
+      "username": "Gazou",
+      "role": "Healer",
+      "id": "Gazou",
+      "note": ""
+    },
+    {
+      "username": "Glim",
+      "role": "Healer",
+      "id": "Glim",
+      "note": ""
+    },
+    {
+      "username": "iboga",
+      "role": "Healer",
+      "id": "iboga",
+      "note": ""
+    },
+    {
+      "username": "deadkillah",
+      "role": "DPS",
+      "id": "deadkillah",
+      "note": ""
+    },
+    {
+      "username": "Kattla",
+      "role": "DPS",
+      "id": "Kattla",
+      "note": ""
+    },
+    {
+      "username": "kiriin",
+      "role": "DPS",
+      "id": "kiriin",
+      "note": ""
+    },
+    {
+      "username": "Loffen",
+      "role": "Healer",
+      "id": "Loffen",
+      "note": ""
+    },
+    {
+      "username": "Minno",
+      "role": "DPS",
+      "id": "Minno",
+      "note": ""
+    },
+    {
+      "username": "Lyriel",
+      "role": "DPS",
+      "id": "Lyriel",
+      "note": ""
+    },
+    {
+      "username": "Mwav",
+      "role": "Tank",
+      "id": "Mwav",
+      "note": ""
+    },
+    {
+      "username": "Obe",
+      "role": "Healer",
+      "id": "Obe",
+      "note": ""
+    },
+    {
+      "username": "Onii",
+      "role": "Healer",
+      "id": "Onii",
+      "note": "Break until TBC"
+    },
+    {
+      "username": "Nekrosis",
+      "role": "DPS",
+      "id": "Nekrosis",
+      "note": ""
+    },
+    {
+      "username": "Rakhmor",
+      "role": "DPS",
+      "id": "Rakhmor",
+      "note": ""
+    },
+    {
+      "username": "Rowcat",
+      "role": "DPS",
+      "id": "Rowcat",
+      "note": ""
+    },
+    {
+      "username": "Rusle",
+      "role": "Healer",
+      "id": "Rusle",
+      "note": ""
+    },
+    {
+      "username": "Schnilf",
+      "role": "DPS",
+      "id": "Schnilf",
+      "note": ""
+    },
+    {
+      "username": "Sjeufke",
+      "role": "DPS",
+      "id": "Sjeufke",
+      "note": ""
+    },
+    {
+      "username": "Skarr",
+      "role": "DPS",
+      "id": "Skarr",
+      "note": ""
+    },
+    {
+      "username": "Tovergleuf",
+      "role": "DPS",
+      "id": "Tovergleuf",
+      "note": ""
+    },
+    {
+      "username": "Twyst",
+      "role": "Tank",
+      "id": "Twyst",
+      "note": ""
+    },
+    {
+      "username": "Vasmut",
+      "role": "DPS",
+      "id": "Vasmut",
+      "note": ""
+    },
+    {
+      "username": "Waxxramis",
+      "role": "Tank",
+      "id": "Waxxramis",
+      "note": ""
+    },
+    {
+      "username": "Durpin",
+      "role": "Healer",
+      "id": "Durpin",
+      "note": ""
+    },
+    {
+      "username": "Gnisten",
+      "role": "Healer",
+      "id": "Gnisten",
+      "note": ""
+    },
+    {
+      "username": "Viccy",
+      "role": "DPS",
+      "id": "Viccy",
+      "note": ""
+    },
+    {
+      "username": "Azuro",
+      "role": "DPS",
+      "id": "Azuro",
+      "note": ""
+    },
+    {
+      "username": "Gutsy",
+      "role": "DPS",
+      "id": "Gutsy",
+      "note": ""
+    },
+    {
+      "username": "Mesho",
+      "role": "DPS",
+      "id": "Mesho",
+      "note": ""
+    },
+    {
+      "username": "Gorgorôth",
+      "role": "DPS",
+      "id": "Gorgorôth",
+      "note": "On break until TBC"
+    },
+    {
+      "username": "Kaylah",
+      "role": "Healer",
+      "id": "Kaylah",
+      "note": ""
+    },
+    {
+      "username": "Drowny",
+      "role": "Healer",
+      "id": "Drowny",
+      "note": ""
+    },
+    {
+      "username": "Holyshtt",
+      "role": "Healer",
+      "id": "Holyshtt",
+      "note": ""
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "simple-node-website",
+  "version": "0.1.0",
+  "description": "A webscraping tool hosted on a small Express webserver",
+  "main": "server.js",
+  "scripts": {
+    "start": "npx nodemon server.js"
+  },
+  "author": "Mikael Rusin",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-fileupload": "^1.2.0",
+    "express-session": "^1.17.1",
+    "localtunnel": "^2.0.1",
+    "ngrok": "^3.4.0",
+    "node-cron": "^2.0.3",
+    "pug": "^2.0.3",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0",
+    "playwright-firefox": "^1.7.1"
+  }
+}

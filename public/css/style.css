@@ -1,0 +1,143 @@
+/* ==========================================================================
+   #STYLES
+   ========================================================================== */
+
+
+/**
+ *
+ * [1]: Inheriting box sizing slightly better best-practice
+ * https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/
+ *
+ * [2]: WordPress System font-stack
+ */
+
+
+/* RESET
+   ========================================================================== */
+
+
+html {
+  box-sizing: border-box;
+  font-size: 3vh;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit; /* [1] */
+  margin: 0;
+  padding: 0;
+}
+
+
+
+/* FONTS
+   ========================================================================== */
+
+body {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; /* [2] */
+  display: fixed;
+}
+
+
+.title {
+  text-align: center;
+}
+/* Header
+   ========================================================================== */
+
+.header {
+  width: 100%;
+  height: 13vh;
+  background-color: #525286;
+  color: #FFFFFF;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+div.attendingContainer {
+  width: 250px;
+  position: absolute;
+  left: 4vw;
+  top: 150px;
+
+}
+
+div.confirmedAttendingContainer {
+  width: 200px;
+  text-align:center;
+  position: absolute;
+  left: 52vw;
+  top: 150px;
+}
+div.notAttendingContainer {
+  width: 250px;
+  position: absolute;
+  left: 20vw;
+  top: 150px;
+  text-align: center;
+}
+
+div.maybeAttendingContainer {
+  width: 200px;
+  text-align:center;
+  position: absolute;
+  left: 36vw;
+  top: 150px;
+}
+
+div.standByContainer {
+  left: 84vw;
+  top: 150px;
+  position: absolute;
+  text-align: center;
+}
+
+div.missingAttendingContainer {
+  width: 200px;
+  text-align:center;
+  position: absolute;
+  left: 68vw;
+  top: 150px;
+}
+
+
+p.submitButtonText {
+  text-align: center;
+  margin-right: 50px;
+}
+
+button.submitButton {
+  margin-left: 825px;
+  margin-top: 10px;
+  font-size: 30px;
+  background-color: white;
+  border-color: black;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+form.HTMLupload{
+  height: 100px;
+  margin-left: 800px;
+
+}
+
+form.postForm{
+  margin-left: 800px;
+  width: 60px;
+}
+
+
+p.attending{
+  width: 250px;
+}
+
+a.previous_raid{
+  margin-left: -4vw;
+  margin-top: 10vh;
+  color: #F8F8FF;
+}
+a.next_raid{
+  margin-left: 2vw;
+  margin-top: 10vh;
+  color: #F8F8FF;
+}

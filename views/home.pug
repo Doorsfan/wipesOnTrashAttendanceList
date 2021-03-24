@@ -1,0 +1,38 @@
+extends base_template
+
+block content
+  div.attendingContainer
+    p.attending Attending: #{amountofAttending}
+      p.attendingSeparator ---------
+      each person in Attending
+        p.attendingPerson #{person.id} #{person.role}
+        p.attendingPersonNote Note: #{person.note}
+  div.confirmedAttendingContainer
+    p.confirmedAttending Confirmed: #{amountofConfirmed}
+      p.confirmedAttendingSeparator ---------
+      each person in Confirmed
+        p.confirmedAttendingPerson #{person.id} #{person.role}
+        p.confirmedPersonNote Note: #{person.note}
+  div.notAttendingContainer
+    p.notAttending Not Attending: #{amountofNot}
+      p.notAttendingSeparator -------------
+      each person in notAttending
+        p.notAttendingPerson #{person.id} #{person.role} 
+        p.notAttendingPersonNote Note: #{person.note}
+  div.maybeAttendingContainer
+    p.maybeAttending Maybe: #{amountofMaybe}
+      p.maybeAttendingSeparator -----
+      each person in maybeAttending
+        p.maybeAttendingPerson #{person.id} #{person.role} #{person.note}
+        p.maybeAttendingPersonNote Note: #{person.note}
+  div.missingAttendingContainer
+    p.missingAttending Missing: #{amountofMissing}
+      p.missingAttendingSeparator -------
+      each person in Missing
+        p.missingAttendingPerson #{person.id} #{person.role}
+  div.standByContainer
+    p.standBy Standby: #{amountofstandBy}
+      p.standBySeparator -------
+      each person in StandBy
+        p.StandByPerson #{person.id} #{person.role} #{person.note}
+        p.standByPersonNote Note: #{person.note}
